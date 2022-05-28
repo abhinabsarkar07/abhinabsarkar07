@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinabsarkar07" alt="abhinabsarkar07" /></a> </p>
 
+
+<h3 align="center">About Me & My Works 🚀 !!</h3>
+
+
 - 🔭 I’m currently working on **Sonix**
 
 - 🧐 I'm very passionate about **new technologies & Games😎**
