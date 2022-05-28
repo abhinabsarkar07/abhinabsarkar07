@@ -23,8 +23,9 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/__ra__j_/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/__ra__j_/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/facebook-light.svg)](https://www.facebook.com/abhinabraj07/#gh-light-mode-only)
-[![website](./img/facebook-dark.svg)](https://www.facebook.com/abhinabraj07/#gh-dark-mode-only)
+<a href="https://www.facebook.com/abhinabraj07/" target="blank">
+                  <i class="fab fa-facebook-f"></i>
+                </a>
 
 ### Languages and Tools:
 
