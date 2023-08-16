@@ -10,7 +10,7 @@
 <h3 align="center">About Me & My Works 🚀 !!</h3>
 
 
-- 🔭 I’m currently working on **Sonix**
+- 🔭 I’m currently working on **Portfolio**
 
 - 🧐 I'm very passionate about **new technologies & Games😎**
 
