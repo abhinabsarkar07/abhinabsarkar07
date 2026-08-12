@@ -20,7 +20,7 @@
 
 ```ts
 const abhinab = {
-  role:      "Software Engineer",
+  role:      "Software Engineer @ Solytics Partners",
   location:  "Pune, India",
   exp:       "3+ years shipping production full-stack apps",
   frontend:  ["React", "TypeScript", "Redux", "Tailwind"],
@@ -60,14 +60,14 @@ const abhinab = {
     <td width="50%" valign="top">
       <h3 align="center">Project Name</h3>
       <p align="center">
-        <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinabsarkar07&repo=REPO_NAME&theme=tokyonight&hide_border=true" alt="repo"/></a>
+        <a href="#"><img src="https://github-stats-extended.vercel.app/api/pin/?username=abhinabsarkar07&repo=REPO_NAME&theme=tokyonight&hide_border=true" alt="repo"/></a>
       </p>
       <p align="center">One line on the problem it solves.<br/><code>React</code> <code>Node</code> <code>Postgres</code></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Project Name</h3>
       <p align="center">
-        <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinabsarkar07&repo=REPO_NAME&theme=tokyonight&hide_border=true" alt="repo"/></a>
+        <a href="#"><img src="https://github-stats-extended.vercel.app/api/pin/?username=abhinabsarkar07&repo=REPO_NAME&theme=tokyonight&hide_border=true" alt="repo"/></a>
       </p>
       <p align="center">One line on the problem it solves.<br/><code>Django</code> <code>React Flow</code> <code>DuckDB</code></p>
     </td>
@@ -79,8 +79,8 @@ const abhinab = {
 ## 📊 &nbsp;GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhinabsarkar07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinabsarkar07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=abhinabsarkar07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=abhinabsarkar07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
 <p align="center">
@@ -91,11 +91,6 @@ const abhinab = {
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinabsarkar07&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhinabsarkar07&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8"/>
-</p>
-
-<br/>
 
 ## 🐍 &nbsp;Contribution Graph
 
