@@ -20,7 +20,7 @@
 
 ```ts
 const abhinab = {
-  role:      "Software Engineer @ Solytics Partners",
+  role:      "Software Engineer",
   location:  "Pune, India",
   exp:       "3+ years shipping production full-stack apps",
   frontend:  ["React", "TypeScript", "Redux", "Tailwind"],
