@@ -1,61 +1,106 @@
-<h1 align="center">Hi 👋, I'm Abhinab Sarkar - NECROSIS 👋</h1>
-<h3 align="center">I'm a Mern Stack Developer 💻 and a Gamer 🐱‍🚀 !!</h3>
+<h1 align="center">Hey, I'm Abhinab Sarkar 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinabsarkar07&label=Profile%20views&color=0e75b6&style=flat" alt="abhinabsarkar07" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinabsarkar07" alt="abhinabsarkar07" /></a> </p>
-
-
-
-<h3 align="center">About Me & My Works 🚀 !!</h3>
-
-
-- 🔭 I’m currently working on **Portfolio**
-
-- 🧐 I'm very passionate about **new technologies & Games😎**
-
-- 🥅 2022 Goals: [To Grow more in Mern Stack Developer & more to Open Source projects & CloudComputing](To Grow more in Mern Stack Developer & more to Open Source projects & CloudComputing)
-
-- 🌱 I’m currently learning **Mern stack Web Development, Docker, and Serverless 💻**
-
-- 📫 How to reach me **abhinabsarkar07@gmail.com**
-
-- ⚡ Fun fact **I love to Listing to music, play & stream CS:GO ,Valorant & RPG.I am also a Profesional Photographer**
-
-<br/>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@abhinabsarkar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abhinabsarkar1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhinab-sarkar-15943b188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhinab-sarkar-15943b188" height="30" width="40" /></a>
-<a href="https://fb.com/abhinabraj07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhinabraj07" height="30" width="40" /></a>
-<a href="https://instagram.com/@__ra__j_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@__ra__j_" height="30" width="40" /></a>
-<a href="https://www.behance.net/abhinab sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="abhinab sarkar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/necrosis gaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="necrosis gaming" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abhinabsarkar07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhinabsarkar07" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/abhinab sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhinab sarkar" height="30" width="40" /></a>
-<a href="https://discord.gg/kafUTtxQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kafUTtxQ" height="30" width="40" /></a>
+<p align="center">
+  <b>Full Stack Developer</b> · React · Node · TypeScript · Python<br/>
+  Building data-heavy web apps that don't fall over at scale.
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhinab-sarkar-15943b188">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:abhinabsarkar07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://twitter.com/abhinabsarkar1">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://www.hackerrank.com/abhinabsarkar07">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=abhinabsarkar07&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="views"/>
+</p>
 
-<br/>
+---
 
+### 🧑‍💻 About
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+- 🏢 Software Engineer at **Solytics Partners**, Pune — 3+ years shipping production full-stack apps
+- ⚙️ Day to day: **React + TypeScript** front ends, **Node/Express** and **Django** services, **PostgreSQL / MongoDB** underneath
+- 📊 Currently deep in data-visualization work — **DuckDB**, **ECharts**, **React Flow** for interactive dashboards and workflow builders
+- ☁️ Deploying on **AWS**; comfortable owning a feature from schema design to production
+- 🧩 Weekends: DSA practice, side projects, and the occasional refactor nobody asked for
+- 📫 Reach me at **abhinabsarkar07@gmail.com**
 
-<br/>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinabsarkar07&show_icons=true&locale=en&layout=compact" alt="abhinabsarkar07" /></p>
+### 🛠️ Tech Stack
 
-<br/>
+**Frontend**
 
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinabsarkar07&show_icons=true&locale=en" alt="abhinabsarkar07" /></p>
- 
- 
- 
-<br/>
+**Backend**
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinabsarkar07&" alt="abhinabsarkar07" /></p>
+**Data**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![ECharts](https://img.shields.io/badge/ECharts-AA344D?style=flat-square&logo=apacheecharts&logoColor=white)
+
+**Cloud & Tools**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+### 📌 Featured Work
+
+<!-- Replace these with your best 2-4 repos. Pinned repos matter more than stats cards. -->
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[Project Name](#)** | One line on the problem it solves | React · Node · Postgres |
+| **[Project Name](#)** | One line on the problem it solves | Django · React Flow |
+| **[Portfolio](#)** | Personal site | React · Tailwind |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abhinabsarkar07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinabsarkar07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abhinabsarkar07&theme=tokyonight&hide_border=true" alt="streak"/>
+</p>
+
+---
+
+### 🎮 Off the clock
+
+Photography, RPGs, Valorant, and CS2 — usually with something loud playing in the background.
+
+<p align="left">
+  <a href="https://www.instagram.com/__ra__j_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.youtube.com/@necrosisgaming"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
+</p>
